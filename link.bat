@@ -1,2 +1,2 @@
 @echo off
-start chrome "https://www.youtube.com/watch?v=_Ttyz_zEiRo&t"
+start chrome "https://www.youtube.com/watch?v=GbOXUftBqHc&list=PLbkFzlcFRn531tBijyS1rPrggxD_H-cfP&autoplay=1"
