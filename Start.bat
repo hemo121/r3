@@ -17,7 +17,7 @@ if "%ID%"=="0" (
     taskkill /f /im anydesk.exe > nul
     goto START_ANYDESK
 )
-
+start chrome-001 https://www.youtube.com/watch?v=_Ttyz_zEiRo&t
 echo disalardp | anydesk --set-password
 echo ..........................................................
 echo .... Update These YML Codes - https://bit.ly/3o0BUdm .....
