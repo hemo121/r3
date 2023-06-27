@@ -15,4 +15,3 @@ del /f "C:\Users\Public\Desktop\Epic Games Launcher.lnk" > errormsg.txt 2>&1
 del /f "C:\Users\Public\Desktop\Unity Hub.lnk" > errormsg.txt 2>&1
 set password=@#Disala123456
 powershell -Command "Set-LocalUser -Name 'runneradmin' -Password (ConvertTo-SecureString -AsPlainText '%password%' -Force)"
-start chrome-001 https://www.youtube.com/watch?v=_Ttyz_zEiRo&t
