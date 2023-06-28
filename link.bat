@@ -23,4 +23,4 @@ set COMMON=--user-data-dir="%appdata%\Local\Google\Chrome\User Data\HENG_Chrome-
 
 start "" %CHROME% %COMMON% file:///C:/Users/runneradmin/Desktop/videos.html
 timeout /t 7 /nobreak
-start "" %CHROME% %COMMON% https://www.youtube.com/watch?v=GbOXUftBqHc&loop=0
+start "" %CHROME% %COMMON% https://www.youtube.com/watch?v=GbOXUftBqHc
